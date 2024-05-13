@@ -24,6 +24,7 @@ Hi, I’m @jmat73 🎉I have very, very good news, I just found an internship jo
 💞️ I'm on my new learning project P1 Full Stack + DevOps - Don Bosco
 
 📫 How to reach me jmat@hotmail.es 
+
 https://jmatisam.github.io/web/
-[https://in/josé-manuel-alonso-tirado
-](https://www.linkedin.com/in/jos%C3%A9-manuel-alonso-tirado)
+
+[https://in/josé-manuel-alonso-tirado](https://www.linkedin.com/in/jos%C3%A9-manuel-alonso-tirado)
