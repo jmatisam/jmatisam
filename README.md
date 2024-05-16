@@ -15,7 +15,7 @@ Here are some ideas to get you started: comentarios
 - ⚡ Fun fact: ...
 -->
 ![ilu](https://github.com/jmatisam/Welcome-Git/blob/main/Recursos/Ilusi%C3%B3n.png)
-Hi, I’m @jmat73 🎉I have very, very good news, I just found an internship job, with PHP for three (3) months.🎊 💼👨🏻‍💻It is my first job in the world of programming and I am very happy.🍾🥂 I will update soon.......🤔
+Hi, I’m @jmat73 🎉I have very, very good news, I'm on my new learning project P1 Full Stack + DevOps - Don Bosco 🎊 💼👨🏻‍💻It is my first BootCamp programming and I am very happy.🍾🥂 I will update soon.......🤔
 
 👀 I’m interested everything that is technology, but currently programming, programming and learning programming
 
