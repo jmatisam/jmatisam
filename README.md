@@ -33,7 +33,4 @@ Hi, I’m @jmat73 🎉I have very, very good news, I'm on my new learning projec
 ---
 [![](https://visitcount.itsvg.in/api?id=jmatisam&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-https://jmatisam.github.io/web/
 
-[https://in/josé-manuel-alonso-tirado](https://www.linkedin.com/in/jos%C3%A9-manuel-alonso-tirado)
