@@ -1,4 +1,4 @@
-![Header](https://github.com/jmatisam/jmatisam/blob/main/github-header-image%20(1).png)
+![Header](https://github.com/jmatisam/jmatisam/blob/main/Jos%C3%A9%20Manuel%20Alonso%20Tirado.gif)
 
 ### Hi there 👋
 
