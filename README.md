@@ -1,6 +1,29 @@
 ![Header](https://github.com/jmatisam/Welcome-Git/blob/main/Recursos/download.gif)
 
-### Hi there 👋
+# Hello there! 👋
+
+I’m thrilled to kick off a new adventure with **Trending Corporate**! 🚀  
+Excited to join this rapidly growing, fully Andalusian cosmetics import and distribution company based in Seville, as they continue to make waves in the industry.
+
+Looking forward to collaborating with the amazing team and everyone involved in this journey.
+
+Let’s make this project extraordinary, together!
+
+Happy coding! 💻✨
+
+---
+
+# ¡Hola! 👋
+
+Estoy emocionado de comenzar una nueva aventura con **Trending Corporate**. 🚀  
+Entusiasmado de unirme a esta empresa de importación y distribución de cosméticos, 100% andaluza, ubicada en Sevilla, mientras sigue creciendo rápidamente y marcando tendencias en la industria.
+
+Espero con ansias colaborar con el increíble equipo y con todos los involucrados en este proyecto.
+
+¡Hagamos de este proyecto algo extraordinario, juntos!
+
+¡Feliz programación! 💻✨
+
 
 ![new horizons](https://github.com/jmatisam/Welcome-Git/blob/main/Recursos/NEW.gif)
 # 💫 About Me:[🏆Just obtained the F.P specialty in A.I. and Big Data 🎉 (LINK official title LOE)](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/ce-inteligencia-artificial-bigdata.html)🤖
