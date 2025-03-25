@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-(https://github.com/jmatisam/Welcome-Git/blob/main/Recursos/Recursos/NEWgif)
+![new horizons](https://github.com/jmatisam/Welcome-Git/blob/main/Recursos/Recursos/NEWgif)
 # 💫 About Me:[🏆Just obtained the F.P specialty in A.I. and Big Data 🎉 (LINK official title LOE)](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/ce-inteligencia-artificial-bigdata.html)🤖
 Hi, I’m @jmat73 🎉I have very, very good news, I'm on my new learning project P1 Full Stack + DevOps - Don Bosco 🎊 💼👨🏻‍💻It is my first BootCamp programming and I am very happy.🍾🥂 I will update soon.......🤔<br><br>👀 I’m interested everything that is technology, but currently programming, programming and learning programming<br><br>🌱 I’m currently learning Django and Flask + Python (+ CSS and Html) 💞️ I'm on my new learning project P1 Full Stack + DevOps - Don Bosco
 
